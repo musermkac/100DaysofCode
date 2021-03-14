@@ -1,0 +1,95 @@
+uh let's say features that will help you
+to increase the value
+of your current xmc install uh and
+migrating towards the cloud iq site
+engine first of all
+as i mentioned the licensing model will
+be unified so wired wireless
+pi uh the licenses will be unified into
+like pilots for any aps or
+ceviches or routers that are natively
+supported by cloud iq
+or navigator for third-party visibility
+and later on in the
+in the short to medium uh let's say
+phases also config even configuration
+to third-party equipment will also be
+available but
+the licensing model will be unified okay
+so uh today this might be kind of a
+burden or
+difficulty for you uh ability to access
+your cloud like your site in
+engine instance anywhere you are right
+so
+uh we have plans to have a single
+sign-on
+from the cloud iq to your site engine
+and you can have multiple site engine
+deployments
+in a distributed environment so you will
+be able to
+to access those instances anywhere you
+are
+and of course this brings up another
+item
+which is manager of managers so imagine
+that you have multiple cloud iq
+site engines and you would like to have
+a centralized view
+cloud iq will be that centralized view
+and will synthesize
+gather all the information from multiple
+different cloud
+site engine instances and of course
+cloud speed which we already have with
+the cloud iq
+thanks to the fourth generation and
+microservices architecture
+so we are already getting this new
+features and updates in cloud iq
+but now since uh we will be sending the
+data
+from site engine to cloud iq that data
+will that the variety of data
+will increase with cloud speed
+and unlimited number of site engine
+instances that's another item
+so normally today if you have nms base
+or nms
+licenses you just have right to install
+only one instance of the extreme
+management center
+if you have an ms advanced you have
+three one the main install
+one the backup and one only for lab
+purposes
+so three so but with the with the site
+engine
+basically you have unlimited number of
+instances that you can install okay
+and uh again so this is really important
+nms base if you are using nms base or
+lms licensing
+you will automatically get nms advanced
+functionality without any additional
+cost
+and the last but not the least is the
+unlimited data retention
+currently we have this let's say
+data durable data availability which is
+unlimited in cloud iq
+and of course since ex since cloud iq
+site engine will be sending the data to
+cloud iq
+this means you will also have unlimited
+data retention for
+the devices that that are managed by uh
+cloud iq site
+so this is huge because this this is
+basically
+you will never be able to have we will
+never be able to have this functionality
+without
+just on-prem solution with no connection
+to the to the cloud
